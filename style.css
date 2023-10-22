@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+}
+
+#section-1{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 192, 203, 0.521);
+}
+.sec-1-div img{
+    width: 80%;
+   
+}
+#button{
+    margin-top: 15px;
+    background-color: rgb(245, 166, 180) ;
+    padding: 10px;
+    border-radius: 20px;
+}
+#sec-1-image-div{
+    margin-top: 0  !important;
+    margin-bottom: 20px;
+}
+#sec-1-text-div{
+    margin-top: 17%;
+    margin-right: 5%;
+  
+}
+
+
+#section-2{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 15%;
+    margin-right: 20%;
+}
+
+.sec-2-div img{
+    width: 45%;
+}
+.sec-2-div{
+    display: flex;
+
+}
+
+
+
+.sec-2-div-img-text{
+
+margin-left: 40%;
+    
+}
+#section-3{
+    display: flex;
+
+}
+
+.sec-3-div{
+   height: 400px;
+   width: 300px;
+   background-image: url('rose.jpg');
+}
+
